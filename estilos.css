@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    background-color: bisque;
+}
+
+#titulo {
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#tablaUsers {
+    border: 3px solid black;
+    margin: auto;
+    width: 96%;
+}
+
+table thead {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+table tbody {
+    text-align: center;
+}
+
+div .row {
+    padding: 5px;
+    margin-top: 5px;
+}
