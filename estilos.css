@@ -4,7 +4,7 @@ body {
 }
 
 #titulo {
-    padding: 22px;
+    padding: 20px;
     font-size: 24px;
     font-weight: bold;
     text-align: center;
@@ -13,7 +13,7 @@ body {
 #tablaUsers {
     border: 2px solid black;
     margin: auto;
-    width: 96%;
+    width: 95%;
 }
 
 table thead {
